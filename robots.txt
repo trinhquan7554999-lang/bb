@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+Disallow: /admin/
+Disallow: /checkout.html
+Disallow: /account.html
+
+Sitemap: https://www.steelweigh.com/sitemap.xml 
